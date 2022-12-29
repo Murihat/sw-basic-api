@@ -28,26 +28,6 @@
 {"id":27,"name":"Weaver, red-billed buffalo","category":"Maroon"},
 {"id":28,"name":"Crab, sally lightfoot","category":"Khaki"},
 {"id":29,"name":"Pintail, bahama","category":"Purple"},
-{"id":30,"name":"Sandgrouse, yellow-throated","category":"Violet"},
-{"id":31,"name":"Partridge, coqui","category":"Khaki"},
-{"id":32,"name":"Black-necked stork","category":"Teal"},
-{"id":33,"name":"Common brushtail possum","category":"Indigo"},
-{"id":34,"name":"Starling, red-shouldered glossy","category":"Yellow"},
-{"id":35,"name":"Tawny eagle","category":"Mauv"},
-{"id":36,"name":"Brazilian tapir","category":"Khaki"},
-{"id":37,"name":"Nuthatch, red-breasted","category":"Crimson"},
-{"id":38,"name":"Goose, greylag","category":"Crimson"},
-{"id":39,"name":"Ibis, puna","category":"Teal"},
-{"id":40,"name":"Monkey, red howler","category":"Green"},
-{"id":41,"name":"Stork, white","category":"Blue"},
-{"id":42,"name":"Jackal, black-backed","category":"Purple"},
-{"id":43,"name":"Trumpeter, dark-winged","category":"Pink"},
-{"id":44,"name":"Pademelon, red-legged","category":"Fuscia"},
-{"id":45,"name":"Dunnart, fat-tailed","category":"Violet"},
-{"id":46,"name":"Four-horned antelope","category":"Khaki"},
-{"id":47,"name":"Springhare","category":"Indigo"},
-{"id":48,"name":"European shelduck","category":"Blue"},
-{"id":49,"name":"Killer whale","category":"Indigo"},
-{"id":50,"name":"Chestnut weaver","category":"Maroon"}
+{"id":30,"name":"Sandgrouse, yellow-throated","category":"Violet"}
 ]
 }
